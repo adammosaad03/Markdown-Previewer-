@@ -1,0 +1,13 @@
+#preview{
+  width: 590px;
+    height: 140px;
+  background-color: blue;
+  margin: 50px auto;
+    overflow: hidden;
+  word-wrap: break-word;
+}
+#editor{
+  width: 500px;
+  height: 30px;
+  margin: auto 505px
+}
